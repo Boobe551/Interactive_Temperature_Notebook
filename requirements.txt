@@ -6,4 +6,3 @@ ipywidgets
 mplcursors
 ipympl
 chardet
-warnings
