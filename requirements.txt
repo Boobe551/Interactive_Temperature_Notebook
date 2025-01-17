@@ -5,3 +5,4 @@ seaborn
 ipywidgets
 mplcursors
 ipympl
+zipfile
